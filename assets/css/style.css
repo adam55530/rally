@@ -55,7 +55,7 @@ body {
 }
 
 .headline {
-  color: FFFF99;
+  color: #FFFF33;
 }
 .text {
   color: white;
@@ -65,7 +65,7 @@ body {
   text-align: left;
 }
 .link {
-  color: white;
+  color: white; background-color: #3691cf;
 }
 
 .container {
@@ -140,3 +140,6 @@ body {
 }
 
 .button {background-color: #3691cf;}
+
+.carspecbold {color: white; font-family:'Trebuchet MS'; font-weight:bold;}
+
