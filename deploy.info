@@ -1,0 +1,18 @@
+// Check code status
+
+git status
+
+
+// If adding new files (new images, web pages etc)
+
+git add -A .
+
+
+// Commit new changes online
+
+git commit -am "added new page"
+
+
+// Push new changes
+
+git push origin main
